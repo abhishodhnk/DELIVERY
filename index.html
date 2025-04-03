@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-kiHb7n5LD4+6a7MN8evstEDBQCVvcvhEnyM4LxA1nGVXp1C2S01hc/N61pM7lEFs4P1tcecm51d4xarKX02MBQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="index.css">
+    <title>Login</title>
+</head>
+<body>
+    <div id="toast" class="toast"></div>
+    <div id="main">
+        <div class="login-container">
+            <div class="login-form">
+                <img src="logo.png" alt="Fresh Juice">
+                <h1>Login</h1>
+                <form onsubmit="return handleLogin(event)">
+                    <div id="message"></div>
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" name="username" required>
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" required>
+                    <button type="submit">Login</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
