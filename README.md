@@ -48,4 +48,4 @@ FANTA WEBSITE/
 
 2. Open `index.html` or `Drinks.html` in your browser.
 
-3. To deploy, connect to platforms like **Vercel** or **Netlify**.
+
