@@ -14,7 +14,7 @@ Welcome to the **FANTA Food & Beverage Delivery Website**, a colorful, responsiv
 - 🍰 Tempting **Cakes section**
 - 🚚 Info about **Delivery Partners**
 - 📞 Contact form and **navigation bar** for smooth user experience
-- 💻 Responsive design for mobile and desktop screens
+- 💻 Responsive design for desktop screens
 
 ## 🛠️ Tech Stack
 
