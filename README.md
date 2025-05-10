@@ -13,7 +13,6 @@ Welcome to the **FANTA Food & Beverage Delivery Website**, a colorful, responsiv
 - 🍕 Interactive **Pizza menu**
 - 🍰 Tempting **Cakes section**
 - 🚚 Info about **Delivery Partners**
-- 📞 Contact form and **navigation bar** for smooth user experience
 - 💻 Responsive design for desktop screens
 
 ## 🛠️ Tech Stack
@@ -21,7 +20,6 @@ Welcome to the **FANTA Food & Beverage Delivery Website**, a colorful, responsiv
 - HTML5
 - CSS3
 - JavaScript (Optional for dynamic effects)
-- Deployed on **Vercel**
 
 ## 📁 Folder Structure
 
